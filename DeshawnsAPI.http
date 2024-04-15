@@ -1,0 +1,6 @@
+@DeshawnsAPI_HostAddress = http://localhost:5177
+
+GET {{DeshawnsAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
